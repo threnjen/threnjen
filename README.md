@@ -1,6 +1,6 @@
-![Banner](https://github.com/threnjen/threnjen/blob/main/images/banner.png)
-
 # Hi there, I'm Jen!
+
+I love cats, board games, snowboarding, and data science!
 
 ---
 
