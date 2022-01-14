@@ -21,7 +21,7 @@ With 15+ years experience as a small business owner and entrepreneur, I bring in
 
 ## Find me around the web!
 
-![linkedin](https://www.linkedin.com/in/jennifer-wadkins/) ![gmail](mailto:threnjen@gmail.com)  ![medium](https://threnjen.medium.com/)  
+![][linkedin](https://www.linkedin.com/in/jennifer-wadkins/) ![][gmail](mailto:threnjen@gmail.com)  ![][medium](https://threnjen.medium.com/)  
 
 [linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
