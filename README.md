@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner](https://github.com/threnjen/images/banner.png)
 
 <!--
 **threnjen/threnjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
