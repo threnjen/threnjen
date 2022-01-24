@@ -8,7 +8,7 @@ With 15+ years experience as a small business owner and entrepreneur, I bring in
 
 ---
 
-- 🔭 I’m currently working on  [**BoardGameGeek Games Recommender**](https://github.com/threnjen/boardgamegeek) and [**Azul Summer Pavilion AI**](https://github.com/threnjen/azul_summer_pavilion)
+- 🔭 I’m currently working on  [**BoardGameGeek Games Recommender**](https://github.com/threnjen/boardgamegeek) and [**Monte Carlo AI Framework**](https://github.com/threnjen/azul_summer_pavilion)
 - 🌱 I’m currently learning **SQL and brushing up on my Probability & Statistics**
 - 👯 I’m looking to collaborate on **Game AI**
 - 🤔 I’m looking for help with **Speed Optimization for Collaborative Filtering**
