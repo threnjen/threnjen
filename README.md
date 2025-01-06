@@ -4,7 +4,7 @@ I love cats, board games, snowboarding, and data science!
 
 ---
 
-With 15+ years experience as a small business owner and entrepreneur, I bring independence, drive, and a self-starting work ethic to the data science realm. As a recent graduate I have hands-on experience in a variety of disciplines including machine learning, deep learning, statistics, recommender systems, NLP, data analysis, and data cleaning. My projects were consistently lauded as amongst the top percentile of the Flatiron program. I regularly write for Towards Data Science on Medium, where my publication on Model Stacking was selected as a weekly editor's choice as well as added to the TDS tutorials section. On Kaggle I rank in the top 1% of the Dataset chain for my high-quality sourced dataset contributions.
+I am a Cloud Data Architect/Data Engineer with a focus on deployment, backend development, and automation. I have extensive experience with numerous AWS cloud services including Lambda, ECS/Fargate, Redshift, RDS, DynamoDB, ElastiCache, S3, and more. Beyond AWS service usage, I am also proficient in areas of AWS infrastructure such as networking and permissions management within the cloud environment. With a strong proficiency in Python, I specialize in building robust data pipelines and automating tasks to streamline processes.
 
 ---
 
