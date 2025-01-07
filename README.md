@@ -6,6 +6,8 @@ I love cats, board games, snowboarding, and data science!
 
 I am a Cloud Data Architect/Data Engineer with a focus on deployment, backend development, and automation. I have extensive experience with numerous AWS cloud services including Lambda, ECS/Fargate, Redshift, RDS, DynamoDB, ElastiCache, S3, and more. Beyond AWS service usage, I am also proficient in areas of AWS infrastructure such as networking and permissions management within the cloud environment. With a strong proficiency in Python, I specialize in building robust data pipelines and automating tasks to streamline processes.
 
+At Home Partners of America, I manage a small team of data engineers who provide critical AWS backend development, support, and deployment for the Analytics team.
+
 ---
 
 - 🔭 I’m currently working on  [**BoardGameGeek Games Recommender**](https://github.com/threnjen/boardgamegeek) and [**Monte Carlo AI Framework**](https://github.com/threnjen/azul_summer_pavilion)
