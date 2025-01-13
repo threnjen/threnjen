@@ -4,7 +4,9 @@ I love cats, board games, snowboarding, and data science!
 
 ---
 
-I am a Cloud Data Architect/Data Engineer with a focus on deployment, backend development, and automation. I have extensive experience with numerous AWS cloud services including Lambda, ECS/Fargate, Redshift, RDS, DynamoDB, ElastiCache, S3, and more. Beyond AWS service usage, I am also proficient in areas of AWS infrastructure such as networking and permissions management within the cloud environment. With a strong proficiency in Python, I specialize in building robust data pipelines and automating tasks to streamline processes.
+I love making my stakeholders’ lives easier. This can come by creating scalable and stable deployment solutions, building internal tools, or providing automation solutions. If your workflow is easier and more productive because of my support, I’ve done my job well. 
+
+Cloud Data Architect/Data Engineer, with a focus on cloud deployment, automation, and python integrations. Experience with AWS application platforms and storage, as well as backend security and networking infrastructure. Builds robust Python ETL data pipelines, packages, and internal tools with containerization and automated deployment to the cloud. I’m a strong jack-of-all-tradesman with proficiency in many AWS, architecture, and data engineering skills, and an incredible learning rate for adding new skills to my repertoire.
 
 At Home Partners of America, I manage a small team of data engineers who provide critical AWS backend development, support, and deployment for the Analytics team.
 
