@@ -9,7 +9,7 @@ I love enabling people to do their best work. I do that by creating scalable and
 
 ## ABOUT ME
 
-Senior cloud engineer with a focus on AWS platform standards, infrastructure automation, and developer enablement. I work at the intersection of infrastructure, security, and application delivery, designing systems that scale across teams and accounts while remaining easy to use and maintain. My work emphasizes self-service, repeatability, and scalable solutions in regulated environments.
+Senior cloud enablement engineer with a focus on AWS platform standards, infrastructure automation, and developer experience. I work at the intersection of infrastructure, security, and application delivery, designing systems that scale across teams and accounts while remaining easy to use and maintain. My work emphasizes self-service, repeatability, and pragmatic solutions in regulated environments.
 
 ## MY WORK
 
